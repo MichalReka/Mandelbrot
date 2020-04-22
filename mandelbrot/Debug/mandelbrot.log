@@ -1,0 +1,4 @@
+﻿  mandelbrot.cpp
+C:\Users\micha\Documents\semestr 5\programowanie wspolbieżne\mandelbrot\mandelbrot\mandelbrot.cpp(131,19): warning C4018:  "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\micha\Documents\semestr 5\programowanie wspolbieżne\mandelbrot\mandelbrot\mandelbrot.cpp(143,19): warning C4018:  "<": niezgodność typu ze znakiem/bez znaku
+  mandelbrot.vcxproj -> C:\Users\micha\Documents\semestr 5\programowanie wspolbieżne\mandelbrot\Debug\mandelbrot.exe
